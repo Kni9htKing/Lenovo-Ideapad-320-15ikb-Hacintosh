@@ -1,11 +1,11 @@
-# Lenovo-Ideapad-320-15ikb-Hacintosh
+# Lenovo-Ideapad-320-15ikb-Hackintosh
 
 Disclaimer
 
 Your warranty is now void. Please do some research if you have any concerns before replacing your EFI with mine. I am not responsible for any loss, including but not limited to Kernel Panic, device fail to boot or can not function normally, storage damage or data loss, atomic bombing, World War III and so on.
 
 
-A guide for installing macOS Big Sur and Catalina and below on Lenovo IdeaPad 320-15IKB using Opencore 
+EFI for installing macOS Big Sur and Catalina and below on Lenovo IdeaPad 320-15IKB using Opencore. 
 
 
 # Laptop's Hardware 
@@ -29,6 +29,7 @@ A guide for installing macOS Big Sur and Catalina and below on Lenovo IdeaPad 32
  * Display-- The model of Integrated Graphics is Intel UHD Graphics 620, faked to Intel HD Graphics 620. VRAM has been set to 3072 MB.
  * HDMI-- HDMI port (including HDMI Audio) is supported.
  * Sleep--Sleep (hibernation, lid sleep, and lid wake) is working fine.
+ * Gpu-- ' Nvidia ' Gpu Does not work since ' Apple ' does not support it. It may work on High Sierra.
  
  
  
