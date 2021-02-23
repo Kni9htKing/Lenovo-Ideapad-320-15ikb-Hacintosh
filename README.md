@@ -50,5 +50,17 @@ Apple Pay, requires TouchID,(not supported since this Laptop does not have Apple
 
 Requirement
 
-16GB USB drive
-macOS Big Sur/Catalina image downloaded from the Appstore
+16GB USB drive or higher.
+macOS Big Sur/Catalina image downloaded from the Appstore.
+
+# Credits
+
+* Apple for macOS.
+* Acidanthera for most of the kexts.
+* RehabMan for some ACPI patches.
+* Steve Zheng for some patches.
+* zhen-zen for YogaSMC.
+* Hiep Bao Le for AppleBacklightSmoother
+Thanks to all the Developers who made this Hacintosh possible.
+
+
