@@ -26,13 +26,14 @@ EFI for installing macOS Big Sur and Catalina and below on Lenovo IdeaPad 320-15
 
 
 # Note 
- * Display-- The model of Integrated Graphics is Intel UHD Graphics 620, faked to Intel HD Graphics 620. VRAM has been set to 3072 MB.
+ * Display-- The model of Integrated Graphics is Intel HD Graphics 620. VRAM has been set to 3072 MB.
  * HDMI-- HDMI port (including HDMI Audio) is supported.
  * Sleep--Sleep (hibernation, lid sleep, and lid wake) is working fine.
  * Gpu-- ' Nvidia ' Gpu Does not work since ' Apple ' does not support it. It may work on High Sierra.
  
  
- 
+ # Things To Do
+ * Generate new Serial using GenSMBios.(For this Laptop its Macbook Pro 14,1).
  
  
 # BIOS Configuration
